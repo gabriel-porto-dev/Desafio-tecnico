@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fundamentosWeb
+  annotations:
+    github.com/project-slug: gabriel-porto-dev/fundamentosWeb
+spec:
+  type: other
+  lifecycle: unknown
+  owner: revisores
